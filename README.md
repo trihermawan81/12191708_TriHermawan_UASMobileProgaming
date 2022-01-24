@@ -1,5 +1,6 @@
 # Tugas Aplikasi Flutter Mobile Progaming
-# Tri Hermawan #12191708
+# Tri Hermawan 
+#12191708
 #
 Untuk hasil dari progam yang saya buat adalah sebagai berikut 
 ![](gambar.jpg)
